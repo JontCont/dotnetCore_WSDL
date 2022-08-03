@@ -1,0 +1,16 @@
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\bin\Debug\net5.0\dotnetCore_WSDL.exe
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\bin\Debug\net5.0\dotnetCore_WSDL.deps.json
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\bin\Debug\net5.0\dotnetCore_WSDL.runtimeconfig.json
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\bin\Debug\net5.0\dotnetCore_WSDL.runtimeconfig.dev.json
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\bin\Debug\net5.0\dotnetCore_WSDL.dll
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\bin\Debug\net5.0\dotnetCore_WSDL.pdb
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\dotnetCore_WSDL.csproj.AssemblyReference.cache
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\dotnetCore_WSDL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\dotnetCore_WSDL.AssemblyInfoInputs.cache
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\dotnetCore_WSDL.AssemblyInfo.cs
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\dotnetCore_WSDL.csproj.CoreCompileInputs.cache
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\dotnetCore_WSDL.dll
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\refint\dotnetCore_WSDL.dll
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\dotnetCore_WSDL.pdb
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\dotnetCore_WSDL.genruntimeconfig.cache
+E:\Users\LeomonRD\Desktop\dotnetCore_WSDL\obj\Debug\net5.0\ref\dotnetCore_WSDL.dll

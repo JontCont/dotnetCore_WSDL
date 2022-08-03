@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dotnetCore_WSDL.Data
+namespace dotnetCore_WSDL.Extension
 {
     public static class TransmissionExtension
     {
